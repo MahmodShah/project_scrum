@@ -20,6 +20,31 @@ public class Teacher {
 		System.out.println("How are you man");
 		System.out.println("How are you man");
 		
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		
+		
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		
 	}
 
 }
