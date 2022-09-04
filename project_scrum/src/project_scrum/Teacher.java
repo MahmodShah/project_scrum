@@ -33,6 +33,18 @@ public class Teacher {
 		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
 		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
 		
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		System.out.println("mmmmmmmmmmmmmmmmmmmmmmm");
+		
 	}
 
 }
